@@ -1,0 +1,149 @@
+2022-12-24 23:16:49,553 [main] INFO QA Test Lead - Hash  - Start Automation in Chrome Browser
+2022-12-24 23:16:49,900 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 23:16:49,916 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Abul Hashem\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 23:16:51,751 [main] INFO QA Test Lead - Hash  - User able to click on SignIn Button
+2022-12-24 23:17:20,343 [main] INFO QA Test Lead - Hash  - Start Automation in Chrome Browser
+2022-12-24 23:17:20,488 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 23:17:20,505 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Abul Hashem\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 23:17:22,202 [main] INFO QA Test Lead - Hash  - User able to click on SignIn Button
+2022-12-24 23:19:05,093 [main] INFO QA Test Lead - Hash  - Start Automation in Chrome Browser
+2022-12-24 23:19:05,226 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 23:19:05,241 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Abul Hashem\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 23:19:07,048 [main] INFO QA Test Lead - Hash  - User able to click on SignIn Button
+2022-12-24 23:20:44,741 [main] INFO QA Test Lead - Hash  - Start Automation in Chrome Browser
+2022-12-24 23:20:44,890 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 23:20:44,910 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Abul Hashem\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 23:20:46,729 [main] INFO QA Test Lead - Hash  - User able to click on SignIn Button
+2022-12-24 23:25:50,434 [main] INFO QA Test Lead - Hash  - Start Automation in Chrome Browser
+2022-12-24 23:25:50,573 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 23:25:50,590 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Abul Hashem\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 23:25:52,374 [main] INFO QA Test Lead - Hash  - User able to click on SignIn Button
+2022-12-24 23:31:23,434 [main] INFO QA Test Lead - Hash  - Start Automation in Chrome Browser
+2022-12-24 23:31:23,564 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 23:31:23,584 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Abul Hashem\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 23:31:25,469 [main] INFO QA Test Lead - Hash  - User able to click on SignIn Button
+2022-12-24 23:31:26,334 [main] INFO QA Test Lead - Hash  - User able to enter Email address
+2022-12-24 23:31:26,496 [main] INFO QA Test Lead - Hash  - User able to enter Password
+2022-12-24 23:31:26,563 [main] INFO QA Test Lead - Hash  - User able to click on LogIn Button
+2022-12-24 23:32:00,309 [main] INFO QA Test Lead - Hash  - Start Automation in Chrome Browser
+2022-12-24 23:32:00,455 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 23:32:00,469 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Abul Hashem\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 23:32:02,165 [main] INFO QA Test Lead - Hash  - User able to click on SignIn Button
+2022-12-24 23:32:03,107 [main] INFO QA Test Lead - Hash  - User able to enter Email address
+2022-12-24 23:32:03,294 [main] INFO QA Test Lead - Hash  - User able to enter Password
+2022-12-24 23:32:03,364 [main] INFO QA Test Lead - Hash  - User able to click on LogIn Button
+2022-12-24 23:32:46,876 [main] INFO QA Test Lead - Hash  - Start Automation in Chrome Browser
+2022-12-24 23:32:47,021 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 23:32:47,038 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Abul Hashem\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 23:32:48,797 [main] INFO QA Test Lead - Hash  - User able to click on SignIn Button
+2022-12-24 23:32:49,665 [main] INFO QA Test Lead - Hash  - User able to enter Email address
+2022-12-24 23:32:49,836 [main] INFO QA Test Lead - Hash  - User able to enter Password
+2022-12-24 23:32:49,904 [main] INFO QA Test Lead - Hash  - User able to click on LogIn Button
+2022-12-24 23:36:58,905 [main] INFO QA Test Lead - Hash  - Start Automation in Chrome Browser
+2022-12-24 23:36:59,047 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 23:36:59,064 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Abul Hashem\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 23:37:01,199 [main] INFO QA Test Lead - Hash  - User able to click on SignIn Button
+2022-12-24 23:37:02,472 [main] INFO QA Test Lead - Hash  - User able to enter Email address
+2022-12-24 23:37:02,655 [main] INFO QA Test Lead - Hash  - User able to enter Password
+2022-12-24 23:37:02,722 [main] INFO QA Test Lead - Hash  - User able to click on LogIn Button
+2022-12-24 23:55:29,992 [main] INFO QA Test Lead - Hash  - Start Automation in Chrome Browser
+2022-12-24 23:55:30,127 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 23:55:30,148 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Abul Hashem\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 23:55:31,930 [main] INFO QA Test Lead - Hash  - User able to click on SignIn Button
+2022-12-24 23:55:32,795 [main] INFO QA Test Lead - Hash  - User able to enter Email address
+2022-12-24 23:55:32,968 [main] INFO QA Test Lead - Hash  - User able to enter Password
+2022-12-24 23:55:33,037 [main] INFO QA Test Lead - Hash  - User able to click on LogIn Button
+2022-12-24 23:55:35,719 [main] INFO QA Test Lead - Hash  - Start Automation in Chrome Browser
+2022-12-24 23:55:35,723 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 23:55:35,729 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Abul Hashem\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 23:56:03,229 [main] INFO QA Test Lead - Hash  - Start Automation in Chrome Browser
+2022-12-24 23:56:03,377 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 23:56:03,395 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Abul Hashem\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 23:56:05,111 [main] INFO QA Test Lead - Hash  - User able to click on SignIn Button
+2022-12-24 23:56:05,986 [main] INFO QA Test Lead - Hash  - User able to enter Email address
+2022-12-24 23:56:06,151 [main] INFO QA Test Lead - Hash  - User able to enter Password
+2022-12-24 23:56:06,219 [main] INFO QA Test Lead - Hash  - User able to click on LogIn Button
+2022-12-24 23:57:50,540 [main] INFO QA Test Lead - Hash  - Start Automation in Chrome Browser
+2022-12-24 23:57:50,682 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 23:57:50,702 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Abul Hashem\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 23:57:52,444 [main] INFO QA Test Lead - Hash  - User able to click on SignIn Button
+2022-12-24 23:57:53,321 [main] INFO QA Test Lead - Hash  - User able to enter Email address
+2022-12-24 23:57:53,508 [main] INFO QA Test Lead - Hash  - User able to enter Password
+2022-12-24 23:57:53,574 [main] INFO QA Test Lead - Hash  - User able to click on LogIn Button
+2022-12-24 23:59:14,126 [main] INFO QA Test Lead - Hash  - Start Automation in Chrome Browser
+2022-12-24 23:59:14,272 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 23:59:14,288 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Abul Hashem\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 23:59:16,020 [main] INFO QA Test Lead - Hash  - User able to click on SignIn Button
+2022-12-24 23:59:16,853 [main] INFO QA Test Lead - Hash  - User able to enter Email address
+2022-12-24 23:59:17,022 [main] INFO QA Test Lead - Hash  - User able to enter Password
+2022-12-24 23:59:17,093 [main] INFO QA Test Lead - Hash  - User able to click on LogIn Button
+2022-12-25 00:00:03,331 [main] INFO QA Test Lead - Hash  - Start Automation in Chrome Browser
+2022-12-25 00:00:03,493 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-25 00:00:03,510 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Abul Hashem\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-25 00:00:05,553 [main] INFO QA Test Lead - Hash  - User able to click on SignIn Button
+2022-12-25 00:00:06,583 [main] INFO QA Test Lead - Hash  - User able to enter Email address
+2022-12-25 00:00:06,760 [main] INFO QA Test Lead - Hash  - User able to enter Password
+2022-12-25 00:00:06,826 [main] INFO QA Test Lead - Hash  - User able to click on LogIn Button
+2022-12-25 00:01:55,064 [main] INFO QA Test Lead - Hash  - Start Automation in Chrome Browser
+2022-12-25 00:01:55,211 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-25 00:01:55,228 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Abul Hashem\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-25 00:01:56,937 [main] INFO QA Test Lead - Hash  - User able to click on SignIn Button
+2022-12-25 00:01:57,861 [main] INFO QA Test Lead - Hash  - User able to enter Email address
+2022-12-25 00:01:58,010 [main] INFO QA Test Lead - Hash  - User able to enter Password
+2022-12-25 00:01:58,077 [main] INFO QA Test Lead - Hash  - User able to click on LogIn Button
+2022-12-25 00:03:28,115 [main] INFO QA Test Lead - Hash  - Start Automation in Chrome Browser
+2022-12-25 00:03:28,266 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-25 00:03:28,283 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Abul Hashem\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-25 00:03:30,032 [main] INFO QA Test Lead - Hash  - User able to click on SignIn Button
+2022-12-25 00:03:30,909 [main] INFO QA Test Lead - Hash  - User able to enter Email address
+2022-12-25 00:03:31,091 [main] INFO QA Test Lead - Hash  - User able to enter Password
+2022-12-25 00:03:31,162 [main] INFO QA Test Lead - Hash  - User able to click on LogIn Button
+2022-12-25 00:11:20,383 [main] INFO QA Test Lead - Hash  - Start Automation in Chrome Browser
+2022-12-25 00:11:20,526 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-25 00:11:20,545 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Abul Hashem\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-25 00:11:22,341 [main] INFO QA Test Lead - Hash  - User able to click on SignIn Button
+2022-12-25 00:11:23,180 [main] INFO QA Test Lead - Hash  - User able to enter Email address
+2022-12-25 00:11:23,343 [main] INFO QA Test Lead - Hash  - User able to enter Password
+2022-12-25 00:11:23,407 [main] INFO QA Test Lead - Hash  - User able to click on LogIn Button
+2022-12-25 00:13:46,874 [main] INFO QA Test Lead - Hash  - Start Automation in Chrome Browser
+2022-12-25 00:13:47,020 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-25 00:13:47,037 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Abul Hashem\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-25 00:13:49,715 [main] INFO QA Test Lead - Hash  - User able to click on SignIn Button
+2022-12-25 00:13:50,887 [main] INFO QA Test Lead - Hash  - User able to enter Email address
+2022-12-25 00:13:51,065 [main] INFO QA Test Lead - Hash  - User able to enter Password
+2022-12-25 00:13:51,129 [main] INFO QA Test Lead - Hash  - User able to click on LogIn Button
+2022-12-25 00:14:20,494 [main] INFO QA Test Lead - Hash  - Start Automation in Chrome Browser
+2022-12-25 00:14:20,636 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-25 00:14:20,652 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Abul Hashem\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-25 00:14:22,486 [main] INFO QA Test Lead - Hash  - User able to click on SignIn Button
+2022-12-25 00:14:23,308 [main] INFO QA Test Lead - Hash  - User able to enter Email address
+2022-12-25 00:14:23,458 [main] INFO QA Test Lead - Hash  - User able to enter Password
+2022-12-25 00:14:23,520 [main] INFO QA Test Lead - Hash  - User able to click on LogIn Button
+2022-12-25 00:14:52,236 [main] INFO QA Test Lead - Hash  - Start Automation in Chrome Browser
+2022-12-25 00:14:52,383 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-25 00:14:52,399 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Abul Hashem\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-25 00:14:54,166 [main] INFO QA Test Lead - Hash  - User able to click on SignIn Button
+2022-12-25 00:14:55,020 [main] INFO QA Test Lead - Hash  - User able to enter Email address
+2022-12-25 00:14:55,195 [main] INFO QA Test Lead - Hash  - User able to enter Password
+2022-12-25 00:14:55,258 [main] INFO QA Test Lead - Hash  - User able to click on LogIn Button
+2022-12-25 00:16:01,969 [main] INFO QA Test Lead - Hash  - Start Automation in Chrome Browser
+2022-12-25 00:16:02,121 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-25 00:16:02,139 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Abul Hashem\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-25 00:16:04,016 [main] INFO QA Test Lead - Hash  - User able to click on SignIn Button
+2022-12-25 00:16:04,862 [main] INFO QA Test Lead - Hash  - User able to enter Email address
+2022-12-25 00:16:05,013 [main] INFO QA Test Lead - Hash  - User able to enter Password
+2022-12-25 00:16:05,079 [main] INFO QA Test Lead - Hash  - User able to click on LogIn Button
+2022-12-25 00:18:37,843 [main] INFO QA Test Lead - Hash  - Start Automation in Chrome Browser
+2022-12-25 00:18:38,302 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-25 00:18:38,313 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Abul Hashem\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-25 00:18:39,990 [main] INFO QA Test Lead - Hash  - User able to click on SignIn Button
+2022-12-25 00:18:40,794 [main] INFO QA Test Lead - Hash  - User able to enter Email address
+2022-12-25 00:18:40,955 [main] INFO QA Test Lead - Hash  - User able to enter Password
+2022-12-25 00:18:41,019 [main] INFO QA Test Lead - Hash  - User able to click on LogIn Button
+2022-12-25 00:50:57,744 [main] INFO QA Test Lead - Hash  - Start Automation in Chrome Browser
+2022-12-25 00:50:57,881 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-25 00:50:57,896 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Abul Hashem\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-25 00:50:59,708 [main] INFO QA Test Lead - Hash  - User able to click on SignIn Button
+2022-12-25 00:51:00,570 [main] INFO QA Test Lead - Hash  - User able to enter Email address
+2022-12-25 00:51:00,751 [main] INFO QA Test Lead - Hash  - User able to enter Password
+2022-12-25 00:51:00,826 [main] INFO QA Test Lead - Hash  - User able to click on LogIn Button
